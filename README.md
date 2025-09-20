@@ -30,7 +30,7 @@ The dashboard provides a **consolidated view** of business metrics, enabling sta
 ---
 
 ## 📷 Dashboard Preview  
-<img width="1205" height="681" alt="Screenshot 2025-09-17 230905" src="https://github.com/user-attachments/assets/54fdd3fd-c907-4b82-9216-1ba2e6fae45b" />  
+<img width="1205" height="681" alt="Screenshot 2025-09-17 230905" src="https://github.com/user-attachments/assets/131b8a51-4743-4a38-b028-7912d670ac8f" />
 
 *(Click the image to enlarge)*  
 
