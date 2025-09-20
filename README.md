@@ -40,10 +40,3 @@ The dashboard provides a **consolidated view** of business metrics, enabling sta
 👉 [**Click here to explore the interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMjYzNzI3ZTQtYzlhYy00MjlhLWExZjAtNWY1YzBjOGM1MWFmIiwidCI6IjBkOTFkYWIxLWQ1ZWMtNGZkYS1iNzU4LTk5MGMwNWNmYmU4MyJ9)  
 
 ---
-
-## 🔧 How to View Locally  
-If you’d like to explore the report locally:  
-
-1. 📂 Clone this repository:  
-   ```bash
-   git clone https://github.com/ashishck4/Mobile-Sales-Power-BI-Dashboard.git
